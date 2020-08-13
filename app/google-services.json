@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "773543323973",
+    "firebase_url": "https://fir-kotlin-d3c90.firebaseio.com",
+    "project_id": "fir-kotlin-d3c90",
+    "storage_bucket": "fir-kotlin-d3c90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773543323973:android:632c9f59e909f63688762c",
+        "android_client_info": {
+          "package_name": "com.shorman.firebasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773543323973-34lo23p2j4rckf9iref1lp1sugiud4h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAps5HKmxtIHib3kA-Bc_-2v1iu2b-n8wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773543323973-34lo23p2j4rckf9iref1lp1sugiud4h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
